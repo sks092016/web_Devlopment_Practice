@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	renamed:    Clousers/Loop_clouser2.js  -> Clousers/Loop_clouser2.js
+#	modified:   matrix
+#	renamed:    this ! Relations /this binding.js -> this ! Relations/this binding.js
+#	renamed:    this ! Relations /this the beginning.js  -> this ! Relations/this the beginning.js
+#	renamed:    this ! Relations /this wrong use.js -> this ! Relations/this wrong use.js
+#	renamed:    this ! Relations /thisBindingPrecedenceRules.js -> this ! Relations/thisBindingPrecedenceRules.js
+#	renamed:    this ! Relations /yet another example.js -> this ! Relations/yet another example.js
+#
+
