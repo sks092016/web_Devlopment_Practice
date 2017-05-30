@@ -1,6 +1,6 @@
 // Date 09-05-2017 the following program demonstrates the enumeration of the object property . 
 // The enumerable property defined at the time of the defining the proprty of of the object by 
-// the explicit method an while setting other property such as writable , configurable , enumerable 
+// the explicit method and while setting other property such as writable , configurable , enumerable 
 // and value. The associated utilities which are used with the enumerable property are
 
 // 1. for .... in Loop 2. propertyIsEnumerable([property name as string]) 3. Object.keys([object name as string])
